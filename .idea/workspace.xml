@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0066a3e-4fbc-4b98-b9dc-907b2ceacb50" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/CSE105Coursework3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupAllocation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/CW3Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/CommunityGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/SkillSorter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/Volunteer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/cw3interfaces/CommunityGroupInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/cw3interfaces/SkillSorterInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/cw3interfaces/VolunteerInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CSE105Coursework3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/CW3Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/CommunityGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/SkillSorter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/Volunteer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/cw3interfaces/CommunityGroupInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/cw3interfaces/SkillSorterInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/cw3interfaces/VolunteerInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coursework3/CW3Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coursework3/CommunityGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coursework3/SkillSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coursework3/Volunteer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw3interfaces/CommunityGroupInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw3interfaces/SkillSorterInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw3interfaces/VolunteerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,8 +90,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570730923220</updated>
-      <workItem from="1570730928034" duration="2136000" />
+      <workItem from="1570730928034" duration="2687000" />
     </task>
+    <task id="LOCAL-00001" summary="Coursework 3">
+      <created>1570787152093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570787152093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +108,13 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -150,5 +122,14 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Coursework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coursework 3" />
   </component>
 </project>
