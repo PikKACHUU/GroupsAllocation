@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0066a3e-4fbc-4b98-b9dc-907b2ceacb50" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/CSE105Coursework3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupAllocation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/CW3Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/CommunityGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/SkillSorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/coursework3/Volunteer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/cw3interfaces/CommunityGroupInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/cw3interfaces/SkillSorterInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/cw3interfaces/VolunteerInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/CSE105Coursework3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/CW3Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/CommunityGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/SkillSorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/coursework3/Volunteer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/cw3interfaces/CommunityGroupInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/cw3interfaces/SkillSorterInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GroupAllocation/cw3interfaces/VolunteerInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coursework3/CW3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coursework3/CommunityGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coursework3/SkillSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coursework3/Volunteer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3interfaces/CommunityGroupInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3interfaces/SkillSorterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3interfaces/VolunteerInterface.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1S1V7ggCmeyMy8bM3YB4Wpc3heM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CW3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coursework3.CW3Main" />
+      <module name="GroupAllocation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coursework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="CW3Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/coursework3/CW3Main.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CW3Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0066a3e-4fbc-4b98-b9dc-907b2ceacb50" name="默认更改列表" comment="" />
+      <created>1570730923220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570730923220</updated>
+      <workItem from="1570730928034" duration="2136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
